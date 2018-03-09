@@ -8,7 +8,7 @@
 export default {
   methods: {
     testJQ () {
-      $('.love p').html('jquery 工作正常！')
+      $('.love p').html('jquery 工作正as常！')
     }
   }
 }
